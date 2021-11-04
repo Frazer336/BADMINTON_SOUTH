@@ -774,13 +774,13 @@ body {
 #calendar {
   padding: 60px 0;
 }
-#calendar #calendar-flters {
+#calendar #calendar-filters {
   padding: 0;
   margin: 5px 0 35px 0;
   list-style: none;
   text-align: center;
 }
-#calendar #calendar-flters li {
+#calendar #calendar-filters li {
   cursor: pointer;
   margin: 15px 15px 15px 0;
   display: inline-block;
@@ -794,11 +794,11 @@ body {
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
-#calendar #calendar-flters li:hover, #calendar #calendar-flters li.filter-active {
+#calendar #calendar-filters li:hover, #calendar #calendar-filters li.filter-active {
   background: #3B59D1;
   color: #fff;
 }
-#calendar #calendar-flters li:last-child {
+#calendar #calendar-filters li:last-child {
   margin-right: 0;
 }
 #calendar .calendar-wrap {
@@ -814,7 +814,7 @@ body {
   overflow: hidden;
 }
 #calendar .calendar-item figure {
-  overflow: visible;
+  overflow: hidden;
   height: 240px;
   position: relative;
   border-radius: 4px 4px 0 0;

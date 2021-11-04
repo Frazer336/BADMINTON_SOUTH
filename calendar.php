@@ -10,7 +10,7 @@
 <?php include 'header.php'; ?>
 
         <!-- ======= calendar Section ======= -->
-        <section id="calendar" class="section-bg" style="margin-top: 100px;">
+        <section id="calendar" class="section-bg">
             <div class="container" data-aos="fade-up">
       
               <header class="section-header">
@@ -19,7 +19,7 @@
       
               <div class="row" data-aos="fade-up" data-aos-delay="100"">
             <div class=" col-lg-12">
-                <ul id="calendar-flters">
+                <ul id="calendar-filters">
                   <li data-filter="*" class="filter-active">All</li>
                   <li data-filter=".filter-u13">U13 & U15</li>
                   <li data-filter=".filter-u17">U17 & U19</li>
