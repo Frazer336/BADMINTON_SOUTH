@@ -75,6 +75,36 @@
     </div>
   </section><!-- End Hero -->  
 
+    <!-- ======= Facility Section ======= -->
+    <section id ="" class="">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Facility</h2>
+          <h3>Our Facility Is <span>First Class</span></h3>
+        </div>
+  
+        <div class="row">
+          <div class="col-lg-7">
+            <p>Badminton Southland is the proud owner of a 10 court stadium situated at Surrey Park next to Stadium Southland.  This is a purpose built badminton hall with a an excellent sprung wooden floor.<br><br>
+              
+              Players can get a subscription through Pay2play<br>
+              
+              Large groups such as schools can contact the office on <span>03 217 9460</span> to discuss bulk bookings.<br><br>
+              
+              NON-BADMINTON BOOKINGS
+              Some other groups hire our facility, such as the Great Little Train Show over Labour Weekend and we take bookings from other sports/fitness groups who require space.<br><br>
+              
+              We currently have fragile unprotected lights which rules out ball sports being able to use our facility.</p><br>
+              <div class="btn-wrap" style="align-items: flex-start;">
+                <a href="#contact" class="btn-buy">Get In Touch</a>
+              </div>
+          </div>
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <img src="assets/img/calendar/john.JPG" class="img">
+          </div>
+    </section><!-- End Facility Section -->
+
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing">
       <div class="container">
