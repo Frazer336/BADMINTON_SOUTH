@@ -75,6 +75,64 @@
     </div>
   </section><!-- End Hero -->  
 
+    <!-- ======= Pricing Section ======= -->
+    <section id="pricing" class="pricing">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Pricing</h2>
+          <h3>Our Membership <span>Prices</span></h3>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+            <div class="box">
+              <h3>Masters Badminton Club</h3>
+              <h4><sup>$</sup>5<span> / night</span></h4>
+              <ul>
+                <li>$30 Initial Subscription Fee</li>
+                <li>Age Group: +35</li> 
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Find Out More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+            <div class="box">
+              <h3>All Saints Badminton Club</h3>
+              <h4><sup>$</sup>8<span> / night</span></h4>
+              <ul>
+                <li>Buy 10 nights now, get the next night free</li>
+                <li>Age Group: All Welcome</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Find Out More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+            <div class="box">
+              <h3>Smash Badminton</h3>
+              <h4><sup>$</sup>5<span> / night</span></h4>
+              <ul>
+                <li>$15 Initial Subscription Fee</li>
+                <li>Age Group: All Welcome</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Find Out More</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section -->
+  
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
   <div class="container" data-aos="fade-up">
