@@ -155,25 +155,25 @@
    * Porfolio isotope and filter
    */
   window.addEventListener('load', () => {
-    let portfolioContainer = select('.portfolio-container');
-    if (portfolioContainer) {
-      let portfolioIsotope = new Isotope(portfolioContainer, {
-        itemSelector: '.portfolio-item'
+    let calendarContainer = select('.calendar-container');
+    if (calendarContainer) {
+      let calendarIsotope = new Isotope(calendarContainer, {
+        itemSelector: '.calendar-item'
       });
 
-      let portfolioFilters = select('#portfolio-flters li', true);
+      let calendarFilters = select('#calendar-filters li', true);
 
-      on('click', '#portfolio-flters li', function(e) {
+      on('click', '#calendar-filters li', function(e) {
         e.preventDefault();
-        portfolioFilters.forEach(function(el) {
+        calendarFilters.forEach(function(el) {
           el.classList.remove('filter-active');
         });
         this.classList.add('filter-active');
 
-        portfolioIsotope.arrange({
+        calendarIsotope.arrange({
           filter: this.getAttribute('data-filter')
         });
-        portfolioIsotope.on('arrangeComplete', function() {
+        calendarIsotope.on('arrangeComplete', function() {
           AOS.refresh()
         });
       }, true);

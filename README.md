@@ -12,3 +12,4 @@
 11. JS issues page won't load
 12. All issues fixed
 13. Filters not working
+14. Filters fixed 

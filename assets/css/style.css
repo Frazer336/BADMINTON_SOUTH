@@ -777,14 +777,15 @@ body {
   margin: 15px 15px 15px 0;
   display: inline-block;
   padding: 10px 20px;
-  font-size: 12px;
+  font-size: 18px;
   line-height: 20px;
-  color: #666666;
-  border-radius: 4px;
-  text-transform: uppercase;
+  color: #444;
+  font-weight: 600;
+  border-radius: 50px;
   background: #fff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
+  border: 2px solid #3B59D1;
 }
 #calendar #calendar-filters li:hover, #calendar #calendar-filters li.filter-active {
   background: #3B59D1;
