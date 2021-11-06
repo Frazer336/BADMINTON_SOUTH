@@ -54,7 +54,7 @@
       
                   <div class="calendar-info">
                     <h4>Southland U13</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -68,7 +68,7 @@
       
                   <div class="calendar-info">
                     <h4>Southland U15</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -82,7 +82,7 @@
       
                   <div class="calendar-info">
                     <h4>Southland U17</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -96,7 +96,7 @@
       
                   <div class="calendar-info">
                     <h4>Southland U19</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -110,7 +110,7 @@
       
                   <div class="calendar-info">
                     <h4>Southland Masters</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -124,7 +124,7 @@
       
                   <div class="calendar-info">
                     <h4>South Island Open</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -139,7 +139,7 @@
                   <div class="calendar-info">
                     <h4>South Island</h4> 
                     <h4>Junior Team Event</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -154,7 +154,7 @@
                   <div class="calendar-info">
                     <h4>South Island</h4>
                     <h4>Junior Individual Event</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>
@@ -169,7 +169,7 @@
                   <div class="calendar-info">
                     <h4>Southland Secondary Schools</h4>
                     <h4>Championships</h4>
-                    <i class='bx bx-calendar'>21/22 May</i>
+                    <i class='bx bx-calendar'></i>21/22 May
                     <br>
                   </div>
                 </div>

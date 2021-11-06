@@ -330,6 +330,7 @@ body {
   }
   .btn-get-started:hover {
     background: #3B59D1;
+    color: #fff;
     border: 2px solid #3B59D1;
   }
   @media (min-width: 1024px) {
@@ -623,16 +624,22 @@ body {
 .contact .php-email-form textarea {
   padding: 10px 12px;
 }
-.contact .php-email-form button[type=submit] {
-  background: #3B59D1;
-  border: 0;
-  padding: 12px 34px;
-  color: #fff;
-  transition: 0.4s;
+.contact .php-email-form input[type=submit] {
+  display: inline-block;
+  padding: 8px 40px 10px 40px;
   border-radius: 50px;
+  border: 2px solid #3B59D1;
+  color: #3B59D1;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+  background: #fff;
 }
-.contact .php-email-form button[type=submit]:hover {
-  background: #209dd8;
+.contact .php-email-form input[type=submit]:hover {
+  background: #3B59D1;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------

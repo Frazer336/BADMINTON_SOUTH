@@ -62,9 +62,6 @@
 
         <div class="section-title">
           <h2>Pricing</h2>
-          <br>
-          <h1>Southland Clubs</h1>
-          <br>
           <h3>Our Membership <span>Prices</span></h3>
         </div>
 
