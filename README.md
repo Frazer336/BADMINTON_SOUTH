@@ -8,3 +8,6 @@
 7. Site Media
 8. Calendar / About Template
 9. Calendar / About Content (Calendar not working)
+10. Attempted header fix
+11. JS issues page won't load
+12. All issues fixed
