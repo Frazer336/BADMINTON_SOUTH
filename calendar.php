@@ -13,9 +13,10 @@
         <section id="calendar" class="section-bg">
             <div class="container" data-aos="fade-up">
       
-              <header class="section-header">
-                <h3 class="section-title">2021 Calendar</h3>
-              </header>
+              <div class="section-title">
+                <h2>Calendar</h2>
+                <h3>There's Plenty Of Competition In <span>2021</span></h3>
+              </div>
       
               <div class="row" data-aos="fade-up" data-aos-delay="100"">
             <div class=" col-lg-12">

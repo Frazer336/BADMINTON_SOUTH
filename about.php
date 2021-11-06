@@ -11,14 +11,13 @@
 
 
 
-<!-- ======= Pricing Section ======= -->
-<section id="pricing" class="pricing">
+<!-- ======= About Section ======= -->
+<section id="about" class="pricing">
       <div class="container">
 
         <div class="section-title">
-          <h1>Southland Clubs</h1>
-          <br>
-          <h2>Clubs</h2>
+          <h2>Southland Clubs</h2>
+          <h3>There's Something For <span>Everyone</span></h3>
         </div>
 
         <div class="row">
@@ -65,7 +64,7 @@
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section><!-- End About Section -->
 
 
     <!-- ======= sponsor Section ======= -->
