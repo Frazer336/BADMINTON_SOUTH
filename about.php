@@ -9,7 +9,85 @@
 <!-- header -->
 <?php include 'header.php'; ?>
 
+    <!-- ======= Facility Section ======= -->
+    <section id ="facility" class="">
+      <div class="container" data-aos="fade-up">
 
+        <div class="section-title">
+          <h2>Facility</h2>
+          <h3>Our Facility Is <span>First Class</span></h3>
+        </div>
+  
+        <div class="row">
+          <div class="col-lg-7">
+            <p>Badminton Southland is the proud owner of a 10 court stadium situated at Surrey Park next to Stadium Southland.  This is a purpose built badminton hall with a an excellent sprung wooden floor.<br><br>
+              
+              Players can get a subscription through <a href="https://www.pay2play.co.nz/venues/about/59">Pay2play</a>.<br><br>
+              
+              Large groups such as schools can contact the office on <span>03 217 9460</span> to discuss bulk bookings.<br><br>
+              
+              <span>NON-BADMINTON BOOKINGS</span><br>
+              Some other groups hire our facility, such as the Great Little Train Show over Labour Weekend and we take bookings from other sports/fitness groups who require space.<br><br>
+              
+              We currently have fragile unprotected lights which rules out ball sports being able to use our facility.</p><br>
+              <div class="btn-wrap" style="align-items: flex-start;">
+                <a href="index.php#contact" class="btn-buy">Get In Touch</a>
+              </div>
+          </div>
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <img src="assets/img/facility.jpg" class="image-fluid" style="overflow: hidden;">
+          </div>
+    </section><!-- End Facility Section -->
+
+    <!-- ======= primary-school Section ======= -->
+    <section id ="primary-school" class="">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Primary School Programmes</h2>
+          <h3>We Provide <span>Introductory Lessons</span></h3>
+        </div>
+  
+        <div class="row">
+        <div class="col-lg-5 d-flex align-items-stretch">
+            <img src="assets/img/shuttletime.jpg" class="image-fluid" style="overflow: hidden;">
+          </div>
+          <div class="col-lg-7">
+            <p>We have a fully trained coach who is able to run an introductory coaching programme in your school.<br><br> Please contact us on <span>03 217 9460</span> to arrange a visit. This is generally free of charge depending on your requirements.<br><br>
+
+              We can supply all the equipment.<br><br>
+
+              Badminton Southland is registered to offer Shuttle Time which is an International Badminton structured lesson programme.</p>
+              <div class="btn-wrap" style="align-items: flex-start;">
+                <a href="https://badminton.org.nz/shuttle-time/" class="btn-buy">Find Out More</a>
+              </div>
+          </div>
+    </section><!-- End primary-school Section -->
+
+    <!-- ======= secondary-school Section ======= -->
+    <section id ="secondary-school" class="">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Secondary School Programmes</h2>
+          <h3>We Aim To Develop The Next <span>Generation</span></h3>
+        </div>
+  
+        <div class="row">
+          <div class="col-lg-7">
+            <p>SCHOOL COMPETITION<br><br>
+Year 7/8 and also a year 9 to 13 competitions are held at the Surrey Park courts during term 2 and 3.  All-Southland Secondary schools are able to enter teams. Please see your school if you are interested.<br><br>
+
+NCEA<br><br>
+Currently, all Invercargill secondary schools have badminton as part of their PE curriculum.  Our qualified coach steps in as teacher for these sessions to coach and assess the students.  This can be held at the badminton hall or at the high school.  Please contact Larissa McMillan on <span>03 217 9460</span> for bookings or more information.</p>
+              <div class="btn-wrap" style="align-items: flex-start;">
+                <a href="index.php#contact" class="btn-buy">Get In Touch</a>
+              </div>
+          </div>
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <img src="assets/img/SGHS.jpg" class="image-fluid" style="overflow: hidden;">
+          </div>
+    </section><!-- End primary-school Section -->
 
 <!-- ======= About Section ======= -->
 <section id="about" class="pricing">

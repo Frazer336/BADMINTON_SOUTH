@@ -32,7 +32,7 @@ if(isset($_POST['submit'])){
     );
 
     $mail->setFrom('L3dgptest@gmail.com'); // Gmail address which you used as SMTP server
-    $mail->addAddress('L3dgptest@gmail.com'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
+    $mail->addAddress('15113@jhc.school.nz'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
 
     $mail->isHTML(true);
     $mail->Subject = 'Message Received (Contact Page)';

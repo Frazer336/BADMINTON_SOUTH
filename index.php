@@ -26,36 +26,6 @@
   </section><!-- End Hero -->  
   <main>
 
-    <!-- ======= Facility Section ======= -->
-    <section id ="facility" class="">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Facility</h2>
-          <h3>Our Facility Is <span>First Class</span></h3>
-        </div>
-  
-        <div class="row">
-          <div class="col-lg-7">
-            <p>Badminton Southland is the proud owner of a 10 court stadium situated at Surrey Park next to Stadium Southland.  This is a purpose built badminton hall with a an excellent sprung wooden floor.<br><br>
-              
-              Players can get a subscription through Pay2play<br>
-              
-              Large groups such as schools can contact the office on <span>03 217 9460</span> to discuss bulk bookings.<br><br>
-              
-              NON-BADMINTON BOOKINGS
-              Some other groups hire our facility, such as the Great Little Train Show over Labour Weekend and we take bookings from other sports/fitness groups who require space.<br><br>
-              
-              We currently have fragile unprotected lights which rules out ball sports being able to use our facility.</p><br>
-              <div class="btn-wrap" style="align-items: flex-start;">
-                <a href="#contact" class="btn-buy">Get In Touch</a>
-              </div>
-          </div>
-          <div class="col-lg-5 d-flex align-items-stretch">
-            <img src="assets/img/calendar/john.JPG" class="img">
-          </div>
-    </section><!-- End Facility Section -->
-
 <!--Pricing Section-->
     <section id="pricing" class="pricing">
       <div class="container">
@@ -114,6 +84,79 @@
       </div>
     </section><!-- End Pricing Section -->
 
+
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Team</h2>
+          <h3>Our Hardworking <span>Team</span></h3>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Nic Raines</h4>
+                <span>President</span>
+                <span><i class='bi bi-phone'></i>03 217 9479 | 027 295 8963</span>
+                <span><i class='bi bi-envelope'></i></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Larissa McMillan</h4>
+                <span>General Manager</span>
+                <span><i class='bi bi-phone'></i>03 217 9460 | 027 575 5742</span>
+                <span><i class='bi bi-envelope'></i></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Cameron Smellie</h4>
+                <span>Smash Badminton Club</span>
+                <span><i class='bi bi-phone'></i>027 503 7895</span>
+                <span><i class='bi bi-envelope'></i>cameron.smellie@outlook.com</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Sue Flintoff</h4>
+                <span>All Saints Badminton Club</span>
+                <span><i class='bi bi-phone'></i>021 022 45957</span>
+                <span><i class='bi bi-envelope'></i>brettsue47@icloud.com</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
 
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">

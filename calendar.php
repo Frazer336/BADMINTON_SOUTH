@@ -105,7 +105,7 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-masters">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/dupree.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/calendar/group.png" class="img-fluid" style="height: 100%;" alt="">
                   </figure>
       
                   <div class="calendar-info">
@@ -133,7 +133,7 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-u13 filter-u17">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/calendar/team_2.JPG" class="img-fluid" alt="">
+                    <img src="assets/img/calendar/team_2.JPG" class="img-fluid" style="height: 100%;" alt="">
                   </figure>
       
                   <div class="calendar-info">
