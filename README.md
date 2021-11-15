@@ -14,3 +14,4 @@
 13. Filters not working
 14. Filters fixed 
 15. About Page Finished
+16. Nav hide added

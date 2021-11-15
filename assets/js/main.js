@@ -93,6 +93,30 @@
     onscroll(document, headerScrolled)
   }
 
+// document ready
+(function ($) {
+
+  var previousScroll = 20;
+      // scroll functions
+      $(window).scroll(function(e) {
+      
+          // add/remove class to navbar when scrolling to hide/show
+          var scroll = $(window).scrollTop();
+          if (scroll >= previousScroll && window.scrollY > 550) {
+            selectHeader.classList.add("navbar-hide");
+          
+          }else if (scroll >= previousScroll && window.location.pathname !== '/BADMINTON_SOUTH/index.php' && window.location.pathname !== '/BADMINTON_SOUTH/') {
+            selectHeader.classList.add("navbar-hide");
+          
+          }else if (scroll < previousScroll) {
+            selectHeader.classList.remove("navbar-hide");
+          }
+          previousScroll = scroll;
+      
+      });
+      
+  })(jQuery);    
+
   /**
    * Mobile nav toggle
    */

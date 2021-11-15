@@ -39,7 +39,7 @@ body {
   # Header
   --------------------------------------------------------------*/
   #header {
-    transition: all 0.5s;
+    transition: all 0.75s ease-in-out;
     z-index: 997;
     padding: 20px 0;
   }
@@ -168,7 +168,9 @@ body {
       left: -100%;
     }
   }
-  
+  .navbar-hide {
+    top: -100%;
+  }
   /**
   * Mobile Navigation 
   */
