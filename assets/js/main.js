@@ -58,6 +58,15 @@
   window.addEventListener('load', navbarlinksActive)
   onscroll(document, navbarlinksActive)
 
+  jQuery(function($) {
+    var path = window.location.href; // because the 'href' property of the DOM element is the absolute path
+    $('ul a').each(function() {
+     if (this.href === path) {
+      $(this).addClass('active');
+     }
+    });
+   });
+
   /**
    * Scrolls to an element with header offset
    */

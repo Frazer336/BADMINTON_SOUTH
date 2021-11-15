@@ -15,3 +15,4 @@
 14. Filters fixed 
 15. About Page Finished
 16. Nav hide added
+17. Add active nav link
