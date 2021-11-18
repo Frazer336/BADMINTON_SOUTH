@@ -156,23 +156,23 @@ Currently, all Invercargill secondary schools have badminton as part of their PE
         <div class="row" data-aos="zoom-in">
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/sponsors/ilt_f.png" class="img-fluid" alt="">
+            <a href="https://www.ilt.co.nz/"><img src="assets/img/sponsors/ilt_f.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/sponsors/mcculloch.png" class="img-fluid" alt="">
+            <a href="mcp.co.nz/home"><img src="assets/img/sponsors/mcculloch.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/sponsors/mitre10.png" class="img-fluid" alt="">
+            <a href="https://www.mitre10.co.nz/"><img src="assets/img/sponsors/mitre10.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/sponsors/south_port.png" class="img-fluid" alt="">
+            <a href="https://southport.co.nz/"><img src="assets/img/sponsors/south_port.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/sponsors/community_south.png" class="img-fluid" alt="">
+            <a href="https://www.communitytrustsouth.nz/"><img src="assets/img/sponsors/community_south.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">

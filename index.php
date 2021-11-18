@@ -100,7 +100,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/nic.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Nic Raines</h4>
@@ -114,7 +114,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/larisa.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Larissa McMillan</h4>
@@ -128,7 +128,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/cam.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Cameron Smellie</h4>
@@ -142,7 +142,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/sue.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Sue Flintoff</h4>

@@ -50,7 +50,7 @@ body {
   #header .logo img {
     max-height: 40px;
   }
-  #header.header-scrolled, #header.header-inner-pages {
+  #header.header-scrolled {
     background: #3B59D1;
     padding: 12px 0;
   }
@@ -115,62 +115,11 @@ body {
   .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
     color: #fff;
   }
-  .navbar .dropdown ul {
-    display: block;
-    position: absolute;
-    left: 24px;
-    top: calc(100% + 30px);
-    margin: 0;
-    padding: 10px 0;
-    z-index: 99;
-    opacity: 0;
-    visibility: hidden;
-    background: #fff;
-    box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-    transition: 0.3s;
-  }
-  .navbar .dropdown ul li {
-    min-width: 200px;
-  }
-  .navbar .dropdown ul a {
-    padding: 10px 20px;
-    font-size: 14px;
-    text-transform: none;
-    color: #493c3e;
-  }
-  .navbar .dropdown ul a i {
-    font-size: 12px;
-  }
-  .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-    color: #3B59D1;
-  }
-  .navbar .dropdown:hover > ul {
-    opacity: 1;
-    top: 100%;
-    visibility: visible;
-  }
-  .navbar .dropdown .dropdown ul {
-    top: 0;
-    left: calc(100% - 30px);
-    visibility: hidden;
-  }
-  .navbar .dropdown .dropdown:hover > ul {
-    opacity: 1;
-    top: 0;
-    left: 100%;
-    visibility: visible;
-  }
-  @media (max-width: 1366px) {
-    .navbar .dropdown .dropdown ul {
-      left: -90%;
-    }
-    .navbar .dropdown .dropdown:hover > ul {
-      left: -100%;
-    }
-  }
+ 
   .navbar-hide {
     top: -100%;
   }
+  
   /**
   * Mobile Navigation 
   */
@@ -460,10 +409,6 @@ body {
   font-size: 18px;
   padding-right: 4px;
 }
-.pricing .box ul .na {
-  color: #ccc;
-  text-decoration: line-through;
-}
 .btn-wrap {
   padding: 15px;
   text-align: center;
@@ -602,7 +547,7 @@ body {
 .contact .php-email-form .form-group {
   padding-bottom: 8px;
 }
-.contact .php-email-form .validate {
+/* .contact .php-email-form .validate {
   display: none;
   color: red;
   margin: 0 0 15px 0;
@@ -645,7 +590,7 @@ body {
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
-}
+} */
 .contact .php-email-form .form-group {
   margin-bottom: 20px;
 }

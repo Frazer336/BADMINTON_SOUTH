@@ -16,3 +16,6 @@
 15. About Page Finished
 16. Nav hide added
 17. Add active nav link
+18. Changed some images / added sponsor links 
+19. Added Dates to calendar
+20. Fixed image problems on calendar / finished
