@@ -35,7 +35,7 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-seniors">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/calendar/nats_2.JPG" class="img-fluid" alt="">
+                    <img src="assets/img/calendar/louis_2.png" class="img-fluid" alt="">
                   </figure>
       
                   <div class="calendar-info">
@@ -49,12 +49,12 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-u13">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/dupree.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/calendar/jb_1.jpg" class="img-fluid" alt="">
                   </figure>
       
                   <div class="calendar-info">
                     <h4>Southland U13</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>​​​​​​​31 July
                     <br>
                   </div>
                 </div>
@@ -68,7 +68,7 @@
       
                   <div class="calendar-info">
                     <h4>Southland U15</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>28 August
                     <br>
                   </div>
                 </div>
@@ -82,7 +82,7 @@
       
                   <div class="calendar-info">
                     <h4>Southland U17</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>​​​​​​​31 July
                     <br>
                   </div>
                 </div>
@@ -91,12 +91,12 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-u17">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/calendar/si_1.JPG" class="img-fluid" alt="">
+                    <img src="assets/img/calendar/bryn_inferiorbryn.JPG" class="img-fluid" alt="">
                   </figure>
       
                   <div class="calendar-info">
                     <h4>Southland U19</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>28 August
                     <br>
                   </div>
                 </div>
@@ -105,12 +105,12 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-masters">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/calendar/group.png" class="img-fluid" style="height: 100%;" alt="">
+                    <img src="assets/img/calendar/group_2.png" class="img-fluid" alt="">
                   </figure>
       
                   <div class="calendar-info">
                     <h4>Southland Masters</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>5 September
                     <br>
                   </div>
                 </div>
@@ -124,7 +124,7 @@
       
                   <div class="calendar-info">
                     <h4>South Island Open</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>5/7 November
                     <br>
                   </div>
                 </div>
@@ -133,13 +133,13 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-u13 filter-u17">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/calendar/team_2.JPG" class="img-fluid" style="height: 100%;" alt="">
+                    <img src="assets/img/calendar/team_4.JPG" class="img-fluid" alt="">
                   </figure>
       
                   <div class="calendar-info">
                     <h4>South Island</h4> 
                     <h4>Junior Team Event</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>12/13 June
                     <br>
                   </div>
                 </div>
@@ -148,13 +148,13 @@
               <div class="col-lg-4 col-md-6 calendar-item filter-u13 filter-u17">
                 <div class="calendar-wrap">
                   <figure>
-                    <img src="assets/img/calendar/si_1.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/calendar/si_2.jpg" class="img-fluid" alt="">
                   </figure>
       
                   <div class="calendar-info">
                     <h4>South Island</h4>
                     <h4>Junior Individual Event</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>27/29 April
                     <br>
                   </div>
                 </div>
@@ -169,7 +169,7 @@
                   <div class="calendar-info">
                     <h4>Southland Secondary Schools</h4>
                     <h4>Championships</h4>
-                    <i class='bx bx-calendar'></i>21/22 May
+                    <i class='bx bx-calendar'></i>13 August
                     <br>
                   </div>
                 </div>
