@@ -27,7 +27,7 @@
   <main>
 
 <!--Pricing Section-->
-    <section id="pricing" class="pricing">
+    <section id="pricing" class="pricing" data-aos="fade-up">
       <div class="container">
 
         <div class="section-title">
@@ -87,7 +87,7 @@
 
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+    <section id="team" class="team" data-aos="fade-up">
       <div class="container">
 
         <div class="section-title">
@@ -106,7 +106,7 @@
                 <h4>Nic Raines</h4>
                 <span>President</span>
                 <span><i class='bi bi-phone'></i>03 217 9479 | 027 295 8963</span>
-                <span><i class='bi bi-envelope'></i></span>
+                <!-- <span><i class='bi bi-envelope'></i></span> -->
               </div>
             </div>
           </div>
@@ -120,7 +120,7 @@
                 <h4>Larissa McMillan</h4>
                 <span>General Manager</span>
                 <span><i class='bi bi-phone'></i>03 217 9460 | 027 575 5742</span>
-                <span><i class='bi bi-envelope'></i></span>
+                <!-- <span><i class='bi bi-envelope'></i></span> -->
               </div>
             </div>
           </div>
